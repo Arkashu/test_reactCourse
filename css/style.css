@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    font-size: 20px;
+}
+form {
+    margin-top: 90px;
+    padding: 50px 90px;
+    border: solid 6px #61dafb;
+    border-radius: 30px;
+}
+input {
+    margin: 10px 0 20px;
+    padding: 7px 3px;
+}
+button {
+    padding: 10px;
+    font-size: 17px;
+    border: solid 2px #61dafb;
+    border-radius: 6px;
+
+}
+button:hover {
+    background: #61dafb;
+    transition: 0.3s;
+    color: white;
+}
